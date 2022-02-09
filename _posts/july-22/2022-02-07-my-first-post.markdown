@@ -1,7 +1,7 @@
 ---
 title:  "Better coder, better me"
 date:   2022-02-07 22:23:30 -0300
-categories: objectives test
+categories: objectives
 author: John Moutella
 ---
 A few months after graduating, I have realized that I don't really know a lot of stuff that I should, and that there are thousands of improvementes that I can work on.
