@@ -6,11 +6,6 @@ author: John Moutella
 ---
 I just saw the [first video](https://www.youtube.com/watch?v=iOq5kSKqeR4) of the [coding-interview-university](https://github.com/moutella/coding-interview-university), where a Harvard student explains basic asymptotic notation, like what does O(n), O(1), O(n^2) means and so on, which is kind of a breeze for anyone who has taken a few computer science classes. However, I do admit that I had forgotten what does Ω(n) means, and what does Θ(n) means, and that made me be humble, because I realized that yes, there is a lot of knowledge I don't know.
 
-For anyone who doesn't know, like I didn't, here goes a very simplistic view of asymptotic notation:
-- O: defines upper bound
-- Ω: defines lower bound,
-- Θ: happens when the upper bound is the same as the lower bound
-
 I decided to also watch the [second video](https://www.youtube.com/watch?v=V6mKVRU1evU) in the asymptotic notation part of the study, and apart from the quick explanation about O(n log n), everything is pretty basic for someone who has had a algorithm analysis class in college, which I did. I hope I don't feel this throughout the entire journey, otherwise I shall have to pick something else to use as the path for my studies.
 
 This may be a little unfair with the repository, which is filled with good information about computer science, interviews, resumes and everything to help someone find themselves a career in software engineering, and I do realize the author does indeed say that he has not studied computer science in college, so maybe I do need something else. Well, I'll stick to the program at least for a week before jumping ship. Now, it's time to go back to do a few Hackerrank challenges
